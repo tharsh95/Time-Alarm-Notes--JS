@@ -1,0 +1,24 @@
+body{
+    background-image: url(img.jpg);
+}
+#inpt{
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
+#alarm{
+    color: azure;
+    padding: 80px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 2.5cm;
+}
+#navTitle{
+     font-family: 'Cedarville Cursive', cursive;
+      font-size: 1cm;  
+}
+#alarmT{
+         font-family: 'Cedarville Cursive', cursive;
+          font-size: 1cm;
+}

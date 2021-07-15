@@ -1,0 +1,69 @@
+body {
+  background-image: url(img.jpg);
+}
+#navT {
+  font-family: "Cedarville Cursive", cursive;
+  font-size: 1cm;
+}
+#alarmT {
+  font-family: "Cedarville Cursive", cursive;
+  font-size: 1cm;
+}
+#notesT {
+  font-family: "Cedarville Cursive", cursive;
+  font-size: 1cm;
+}
+h5{
+    font-family: "Cedarville Cursive", cursive;
+    font-size: 2cm;
+    color: azure;
+    background-image: url(img.jpg);
+}
+.card-body{
+    background-image: url(img.jpg);
+    user-select: none;
+    position: relative;   
+}
+.form-control{
+    background-image: url(textbg.jpg);
+
+}
+h1{
+    padding: 78px;
+    position: relative;
+    font-family: "Cedarville Cursive", cursive;
+    font-size: 2cm;
+    color: azure;
+    user-select: none;
+}
+#addTitle{
+    font-family: "Cedarville Cursive", cursive;
+    font-size: 0.5cm;
+    color: azure;
+}
+button{
+    font-family: "Cedarville Cursive", cursive;
+    font-size: 16px;
+    padding: 32px 16px;
+}
+#notes{
+    font-family: "Cedarville Cursive", cursive;
+    font-size: 1cm;
+    color: azure;
+}
+#add-text{
+    font-family: "Cedarville Cursive", cursive;
+    font-size: 1cm;
+    color: azure;
+
+}    
+hr{
+    color: azure;
+}
+ .noteCard{
+    background-image: url(textbg.jpg);
+}
+#notesh1{
+    display:flex;
+    justify-content: center;
+}
